@@ -1,4 +1,4 @@
-### Part 2: Decipher Sign Language Using Convolutional Neural Network
+## Part 2: Decipher Sign Language Using Convolutional Neural Network
 
 The objective is to create a model to decipher the numbers represented by the hand sign.
 
