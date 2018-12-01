@@ -22,4 +22,4 @@ _______________________________________________________________________________
 ###Results
 
 
-<img src="images/costvsiterations.png">
+<img src="images/costvsiterations.PNG">
