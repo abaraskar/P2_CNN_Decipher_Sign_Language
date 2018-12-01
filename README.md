@@ -12,14 +12,12 @@ Below are examples for each number, and an explanation of representing the label
 <img src="images/hands.png" style="width:800px;height:350px;">
 
 
-_______________________________________________________________________________
-
-###CNN Model
+### CNN Model
 
 <img src="images/model.png">
 
 
-###Results
+### Results
 
 
 <img src="images/cvi.png">
